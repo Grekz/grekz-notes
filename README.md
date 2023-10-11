@@ -2,10 +2,6 @@
 
 This repo contains all the relevant notes
 
-## Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=grekz&size_weight=0.5&count_weight=0.5&langs_count=14&layout=pie&hide=Dockerfile,TSQL)
-
 ## Repos
 
 All good repos to learn from
