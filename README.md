@@ -20,3 +20,15 @@ All good repos to learn from
 - [Dave Kerr - Hacker laws](https://github.com/dwmkerr/hacker-laws): Laws, Theories, Principles and Patterns that developers will find useful.
 - [Omar Santos - The Art of Hacking](https://github.com/The-Art-of-Hacking/h4cker): This repository is a comprehensive collection of cybersecurity-related references, scripts, tools, code, and other resources.
 - [Paul Deitel - Python Data Science Full](https://github.com/pdeitel/PythonDataScienceFullThrottle): Live training course Python Data Science Full Throttle: Introductory Artificial Intelligence (AI), Big Data and Cloud Case Studies
+
+
+### Games
+- https://github.com/remvst/knight
+- https://github.com/merlinvsalfonso/merlingame
+- https://github.com/anttihaavikko/casual-crusade
+- https://github.com/burntcustard/tiny-yurts
+- https://github.com/roblouie/upyri
+- https://github.com/mvasilkov/super2023
+- https://github.com/wololoa/js13k2023
+- https://github.com/jani-nykanen/knight-dreams
+- https://github.com/csubagio/js13k-robin
