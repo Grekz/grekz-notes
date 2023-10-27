@@ -21,6 +21,10 @@ All good repos to learn from
 - [Omar Santos - The Art of Hacking](https://github.com/The-Art-of-Hacking/h4cker): This repository is a comprehensive collection of cybersecurity-related references, scripts, tools, code, and other resources.
 - [Paul Deitel - Python Data Science Full](https://github.com/pdeitel/PythonDataScienceFullThrottle): Live training course Python Data Science Full Throttle: Introductory Artificial Intelligence (AI), Big Data and Cloud Case Studies
 
+### Nextjs
+- [CDK Next.js](https://github.com/shibayu36/nextjs-on-ecs) - Deployment with s3 + ecs fargate
+- [CDK Next.js - Alternative](https://github.com/dkershner6/cdk-nextjs-standalone-ecs) - Deployment with ecs fargate + EFS
+
 
 ### Games
 - https://github.com/remvst/knight
