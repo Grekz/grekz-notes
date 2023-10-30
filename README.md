@@ -20,6 +20,7 @@ All good repos to learn from
 - [Dave Kerr - Hacker laws](https://github.com/dwmkerr/hacker-laws): Laws, Theories, Principles and Patterns that developers will find useful.
 - [Omar Santos - The Art of Hacking](https://github.com/The-Art-of-Hacking/h4cker): This repository is a comprehensive collection of cybersecurity-related references, scripts, tools, code, and other resources.
 - [Paul Deitel - Python Data Science Full](https://github.com/pdeitel/PythonDataScienceFullThrottle): Live training course Python Data Science Full Throttle: Introductory Artificial Intelligence (AI), Big Data and Cloud Case Studies
+- [Practice problems](https://www.practiceprobs.com/) - Site where you can practice how to implement solutions, such a nextjs project, redis problems, etc.
 
 ### Nextjs
 - [CDK Next.js](https://github.com/shibayu36/nextjs-on-ecs) - Deployment with s3 + ecs fargate
